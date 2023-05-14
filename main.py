@@ -9,7 +9,7 @@ from dictionarys import *
 pygame.init()
 
 # used resources
-Background_Img = "Aessets/Game_Field2.jpg"
+Background_Img = "/Game_Field2.jpg"
 
 
 button_font = pygame.font.SysFont('Arial', 25)
